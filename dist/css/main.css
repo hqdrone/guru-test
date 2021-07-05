@@ -28,6 +28,7 @@ svg.icon {
   grid-template-columns: repeat(auto-fill, minmax(224px, 1fr));
   gap: 24px;
   grid-gap: 24px;
+  margin-bottom: 32px;
 }
 .similar__more {
   text-align: right;
